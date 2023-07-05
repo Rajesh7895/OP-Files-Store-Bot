@@ -1,6 +1,6 @@
 {
   "name": "OP File Store Bot",
-  "description": "file sharing bot store posts and it can access by special links",
+  "description": "file storre bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
@@ -10,26 +10,27 @@
   "logo": "https://telegra.ph/file/12921701faf018f20c6a4.jpg",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "6366997633:AAFLAavo_iu7ieEXGYS17w9iDGuzKSYjk2A, Get it from @Botfather",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "Your Telegram ID",
+      "description": "5257526759",
       "value": "1250450587"
     },
     "APP_ID":{
-      "description": "your api id, take it from my.telegram.org",
+      "description": "29810598, take it from my.telegram.org",
       "value": ""
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "4f6367a57aeebcf48b58c179684c8250
+, take it from my.telegram.org",
       "value": ""
     },
-    "CHANNEL_ID":{
+    "-1001321562085":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
       "value": "-100"
     },
-    "FORCE_SUB_CHANNEL":{
+    "-1001824212047":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
       "value": "0"
     },
@@ -41,7 +42,7 @@
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
       "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
     },
-    "ADMINS": {
+    "5257526759": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "",
       "required": false
